@@ -1,4 +1,4 @@
-# Spell Checker
+# Spell Checker 🅰🅱🅲
 
 ## How to run?
 To run my program, you need an english.txt file. If you have this file,
